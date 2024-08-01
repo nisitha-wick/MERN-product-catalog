@@ -15,7 +15,7 @@ function AddProduct() {
 
     const product = { name, description, price, imageUrl };
 
-    axios.post('http://mern-product-catalog-api.vercel.app/products', product)
+    axios.post('https://mern-product-catalog-api.vercel.app/products', product)
       .then(response => {
         console.log(response.data);
         navigate('/');  // Redirect to home after adding the product
