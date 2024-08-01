@@ -7,7 +7,7 @@ function ProductList() {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    axios.get('https://mern-product-catalog-api.vercel.app/products')
+    axios.get('http://localhost:5000/products')
       .then(response => setProducts(response.data))
       .catch(error => console.error('There was an error fetching the products!', error));
   }, []);
