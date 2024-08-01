@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66aba01a139f5d6ccbec665e"
+  },
+  "name": "Nike Dunk High",
+  "description": "Take a seat at the table and add your special touch to the hoops-to-streets icon.",
+  "price": 200,
+  "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/99486859-0ff3-46b4-949b-2d16af2ad421/custom-nike-dunk-high-by-you-shoes.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aba0e6139f5d6ccbec6663"
+  },
+  "name": "Adidas Essential Tee",
+  "description": "Let your sporty side shine in this slim-fit tee. The 3-Stripes run down both sleeves in contrasting colour that really pops. The tee has a classic look that pairs with nearly anything, from jeans to a tennis skirt to workout leggings.. ",
+  "price": 100,
+  "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/14a98f75ed3e4bb981d3ac3a00cf5863_9366/Essentials_Slim_3-Stripes_T-Shirt_White_GL0783.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aba18b139f5d6ccbec6669"
+  },
+  "name": "Adidas Copa Pure",
+  "description": "The comfortable upper on these League boots shows off vintage details, ensuring you look and feel as classy as your football.",
+  "price": 150,
+  "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bba67657a4544eaa948dcc8dbee0d0ac_9366/Copa_Pure_2_League_Firm_Ground_Boots_Blue_IG8719_01_standard_hover.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aba27b139f5d6ccbec666c"
+  },
+  "name": "Adidas Entrada 22",
+  "description": "Wherever your day takes you, you're set in these adidas football Entrada 22 Shorts.",
+  "price": 50,
+  "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cde4e773ae9845e2977aadd7004a6738_9366/Entrada_22_Shorts_Multicolour_H57504_01_laydown.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aba706139f5d6ccbec6675"
+  },
+  "name": "Manchester United Backpack",
+  "description": "Made for fans who follow their team everywhere they go, this adidas backpack is built to handle every journey. ",
+  "price": 75,
+  "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/06823a397a144b6aaf18864b89db14e1_9366/Manchester_United_Home_Backpack_Red_IY0439_04_standard.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66abde15139f5d6ccbec66d0"
+  },
+  "name": "Nike Air Max Dn",
+  "description": "The Air Max Dn features our Dynamic Air unit system of dual-pressure tubes, creating a reactive sensation with every step.",
+  "price": 125,
+  "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/20ff441a-e1d5-475f-9b31-d52d7f01c217/W+AIR+MAX+DN.png",
+  "__v": 0
+}]
