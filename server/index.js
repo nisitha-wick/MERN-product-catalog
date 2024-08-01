@@ -5,7 +5,11 @@ const productRoutes = require('./routes/products');
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+  origin: ["http://mern-product-catalog-frontend.vercel.app"],
+  methods: ['GET', 'POST'],
+  credentials: true
+}));
 app.use(express.json());
 app.use('/products', productRoutes);
 
